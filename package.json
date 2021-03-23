@@ -24,5 +24,11 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start": "react-scripts build",
+    "start": "react-scripts test",
+    "start": "react-scripts eject"
   }
 }
